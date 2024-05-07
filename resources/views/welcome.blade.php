@@ -15,11 +15,8 @@
         <!-- Styles -->
         <style>
             * {
-<<<<<<< HEAD
-                font-size: 50px
-=======
+                font-size: 50px;
                 background-color: rgb(187, 187, 235);
->>>>>>> 3c52b32 (new)
             }
              .header_list {
             display: flex;
@@ -67,13 +64,11 @@
         <form action="/building" method="post">
             @csrf
         <a href="/building">budowę</a>
-<<<<<<< HEAD
         <a href="/renovation">remont</a>
         <a href="">niew eim</a>
-=======
-        <a href="/renovation">nieremont</a>
->>>>>>> 3c52b32 (new)
     </form>
     </div>
+
+
     </body>
 </html>
