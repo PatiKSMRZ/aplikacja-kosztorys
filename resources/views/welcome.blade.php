@@ -14,6 +14,9 @@
 
         <!-- Styles -->
         <style>
+            * {
+                background-color: rgb(187, 187, 235);
+            }
              .header_list {
             display: flex;
             flex-direction: row;
@@ -60,7 +63,7 @@
         <form action="/building" method="post">
             @csrf
         <a href="/building">budowę</a>
-        <a href="/renovation">remont</a>
+        <a href="/renovation">nieremont</a>
     </form>
     </div>
 
