@@ -40,7 +40,7 @@
                     <ul class="header_list" >
                         <li><a href="index.php">strona główna</a></li>
                         <li><a href="building.php">budowa</a></li>
-                        <li><a href="renovation.php">remont</a></li>
+                        <li><a href="renovation.php">nieremont</a></li>
                         <li><a href="login/login-form.php">konto</a></li>
                     </ul>
                 </div>

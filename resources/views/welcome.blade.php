@@ -15,8 +15,11 @@
         <!-- Styles -->
         <style>
             * {
-                font-size: 50px;
+<<<<<<< HEAD
                 background-color: rgb(187, 187, 235);
+=======
+                font-size: 50px
+>>>>>>> e6009d1cd628fe0866e1d5745069e67b5fb995b7
             }
              .header_list {
             display: flex;
@@ -68,7 +71,5 @@
         <a href="">niew eim</a>
     </form>
     </div>
-
-
     </body>
 </html>
