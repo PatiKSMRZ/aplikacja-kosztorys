@@ -14,6 +14,9 @@
 
         <!-- Styles -->
         <style>
+            * {
+                font-size: 50px
+            }
              .header_list {
             display: flex;
             flex-direction: row;
@@ -61,6 +64,7 @@
             @csrf
         <a href="/building">budowę</a>
         <a href="/renovation">remont</a>
+        <a href="">niew eim</a>
     </form>
     </div>
 
