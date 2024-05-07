@@ -15,7 +15,11 @@
         <!-- Styles -->
         <style>
             * {
+<<<<<<< HEAD
                 background-color: rgb(187, 187, 235);
+=======
+                font-size: 50px
+>>>>>>> e6009d1cd628fe0866e1d5745069e67b5fb995b7
             }
              .header_list {
             display: flex;
@@ -63,7 +67,8 @@
         <form action="/building" method="post">
             @csrf
         <a href="/building">budowę</a>
-        <a href="/renovation">nieremont</a>
+        <a href="/renovation">remont</a>
+        <a href="">niew eim</a>
     </form>
     </div>
 
